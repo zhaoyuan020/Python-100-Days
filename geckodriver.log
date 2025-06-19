@@ -1,0 +1,26 @@
+1668775889901	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoy\\AppData\\Local\\Temp\\rust_mozprofile.s6pKz0nLxkW5"
+1668775891172	Marionette	INFO	Marionette enabled
+1668775891225	Marionette	INFO	Listening on port 52157
+1668775891601	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhaoy\\AppData\\Local\\Temp\\rust_mozprofile.s6pKz0nLxkW5\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668775905915	Marionette	INFO	Stopped listening on port 52157
+1668775911708	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoy\\AppData\\Local\\Temp\\rust_mozprofile.PMPwHfwKXbe1"
+1668775912366	Marionette	INFO	Marionette enabled
+1668775912372	Marionette	INFO	Listening on port 52247
+1668775912883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhaoy\\AppData\\Local\\Temp\\rust_mozprofile.PMPwHfwKXbe1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668777442857	Marionette	INFO	Stopped listening on port 52247
+1668777448966	mozrunner::runner	INFO	Running command: "d:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\zhaoy\\AppData\\Local\\Temp\\rust_mozprofile.6bub5KRvQBX8"
+1668777450012	Marionette	INFO	Marionette enabled
+1668777450018	Marionette	INFO	Listening on port 53178
+1668777450099	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 58: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\zhaoy\\AppData\\Local\\Temp\\rust_mozprofile.6bub5KRvQBX8\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://hectorstatic.baidu.com/96c9c06653ba892e.js, line 3: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1668777456979	Marionette	INFO	Stopped listening on port 53178
+console.error: services.settings: 
+  main/whats-new-panel Signature failed  TypeError: NetworkError: Network request failed
